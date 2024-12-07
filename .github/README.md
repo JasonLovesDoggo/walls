@@ -9,30 +9,30 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [abstract](.././abstract)
   
- [![tjz0oeavjgn71.webp](.././abstract/tjz0oeavjgn71.webp)](.././abstract/tjz0oeavjgn71.webp)
-  
  [![m90bb95n3m651.webp](.././abstract/m90bb95n3m651.webp)](.././abstract/m90bb95n3m651.webp)
+  
+ [![15cw08avjgn71.webp](.././abstract/15cw08avjgn71.webp)](.././abstract/15cw08avjgn71.webp)
   
 
 ## [anime](.././anime)
   
- [![z-w-gu-img-20161019-132558.webp](.././anime/z-w-gu-img-20161019-132558.webp)](.././anime/z-w-gu-img-20161019-132558.webp)
+ [![z-w-gu-canal.webp](.././anime/z-w-gu-canal.webp)](.././anime/z-w-gu-canal.webp)
   
- [![slcdn6avjgn71.webp](.././anime/slcdn6avjgn71.webp)](.././anime/slcdn6avjgn71.webp)
+ [![z-w-gu-img-20161019-132558.webp](.././anime/z-w-gu-img-20161019-132558.webp)](.././anime/z-w-gu-img-20161019-132558.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
- [![a_woman_standing_in_front_of_a_window.webp](.././apocalypse/a_woman_standing_in_front_of_a_window.webp)](.././apocalypse/a_woman_standing_in_front_of_a_window.webp)
-  
  [![a_car_parked_outside_a_motel.webp](.././apocalypse/a_car_parked_outside_a_motel.webp)](.././apocalypse/a_car_parked_outside_a_motel.webp)
+  
+ [![night_city_raining.webp](.././apocalypse/night_city_raining.webp)](.././apocalypse/night_city_raining.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![subway-dawn.webp](.././catppuccin/subway-dawn.webp)](.././catppuccin/subway-dawn.webp)
+ [![ricefieldsatsunset.webp](.././catppuccin/ricefieldsatsunset.webp)](.././catppuccin/ricefieldsatsunset.webp)
   
- [![subway_right.webp](.././catppuccin/subway_right.webp)](.././catppuccin/subway_right.webp)
+ [![cat_waves.webp](.././catppuccin/cat_waves.webp)](.././catppuccin/cat_waves.webp)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -42,28 +42,28 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [memes](.././memes)
   
- [![idlfl5re13l51.webp](.././memes/idlfl5re13l51.webp)](.././memes/idlfl5re13l51.webp)
-  
  [![keep-your-favorite-application-between-this-1920x1080-v0-4ms8b0yaq6i81.webp](.././memes/keep-your-favorite-application-between-this-1920x1080-v0-4ms8b0yaq6i81.webp)](.././memes/keep-your-favorite-application-between-this-1920x1080-v0-4ms8b0yaq6i81.webp)
+  
+ [![idlfl5re13l51.webp](.././memes/idlfl5re13l51.webp)](.././memes/idlfl5re13l51.webp)
   
 
 ## [minimalistic](.././minimalistic)
   
- [![2.webp](.././minimalistic/2.webp)](.././minimalistic/2.webp)
-  
  [![od4q4z9vjgn71.webp](.././minimalistic/od4q4z9vjgn71.webp)](.././minimalistic/od4q4z9vjgn71.webp)
+  
+ [![1.webp](.././minimalistic/1.webp)](.././minimalistic/1.webp)
   
 
 ## [nature](.././nature)
   
  [![1lba9vomb5g51.webp](.././nature/1lba9vomb5g51.webp)](.././nature/1lba9vomb5g51.webp)
   
- [![wbjg3pqeaof21.webp](.././nature/wbjg3pqeaof21.webp)](.././nature/wbjg3pqeaof21.webp)
+ [![ck67dmp1ifw31.webp](.././nature/ck67dmp1ifw31.webp)](.././nature/ck67dmp1ifw31.webp)
   
 
 ## [nord](.././nord)
   
- [![70.webp](.././nord/70.webp)](.././nord/70.webp)
+ [![1r1kk9qi00961.webp](.././nord/1r1kk9qi00961.webp)](.././nord/1r1kk9qi00961.webp)
   
  [![nord-waves-v0-a9igxtc02xwd1.webp](.././nord/nord-waves-v0-a9igxtc02xwd1.webp)](.././nord/nord-waves-v0-a9igxtc02xwd1.webp)
   
@@ -87,9 +87,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [uncategorized](.././uncategorized)
   
- [![darek-zabrocki-marine-11-final.webp](.././uncategorized/darek-zabrocki-marine-11-final.webp)](.././uncategorized/darek-zabrocki-marine-11-final.webp)
-  
  [![Great_Wall_of_Namib.webp](.././uncategorized/Great_Wall_of_Namib.webp)](.././uncategorized/Great_Wall_of_Namib.webp)
+  
+ [![darek-zabrocki-marine-11-final.webp](.././uncategorized/darek-zabrocki-marine-11-final.webp)](.././uncategorized/darek-zabrocki-marine-11-final.webp)
   
 
 

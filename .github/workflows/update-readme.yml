@@ -36,6 +36,6 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git add README.md **/README.md
+        git add .
         git diff --quiet && git diff --staged --quiet || \
         (git commit -m "Update wallpapers READMEs [skip ci]" && git push)

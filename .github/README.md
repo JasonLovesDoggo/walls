@@ -7,32 +7,67 @@ Categorized wallpaper showcase. two pictures per category.
 
 
 
+## [Jinx Entrance S2 EP9](.././Jinx Entrance S2 EP9)
+  
+ [![S2 EP9 JinxEntrance (04)-cgi-2x.webp](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (04)-cgi-2x.webp)](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (04)-cgi-2x.webp)
+  
+ [![S2 EP9 JinxEntrance (01)-cgi-2x.webp](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (01)-cgi-2x.webp)](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (01)-cgi-2x.webp)
+  
+
+## [Jinx Fall EP9](.././Jinx Fall EP9)
+  
+ [![S2 EP9 JinxFall (3).webp](.././Jinx Fall EP9/S2 EP9 JinxFall (3).webp)](.././Jinx Fall EP9/S2 EP9 JinxFall (3).webp)
+  
+ [![S2 EP9 JinxFall (4).webp](.././Jinx Fall EP9/S2 EP9 JinxFall (4).webp)](.././Jinx Fall EP9/S2 EP9 JinxFall (4).webp)
+  
+
+## [Jinx-Vi back to back S2 EP9](.././Jinx-Vi back to back S2 EP9)
+  
+ [![S2 EP9 JinxVi Request (01).webp](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (01).webp)](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (01).webp)
+  
+ [![S2 EP9 JinxVi Request (02).webp](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (02).webp)](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (02).webp)
+  
+
+## [TimeBomb EP7](.././TimeBomb EP7)
+  
+ [![S2 EP7 JinxEkko (4).webp](.././TimeBomb EP7/S2 EP7 JinxEkko (4).webp)](.././TimeBomb EP7/S2 EP7 JinxEkko (4).webp)
+  
+ [![S2 EP7 JinxEkko (1).webp](.././TimeBomb EP7/S2 EP7 JinxEkko (1).webp)](.././TimeBomb EP7/S2 EP7 JinxEkko (1).webp)
+  
+
 ## [abstract](.././abstract)
   
- [![m90bb95n3m651.webp](.././abstract/m90bb95n3m651.webp)](.././abstract/m90bb95n3m651.webp)
+ [![15cw08avjgn71.webp](.././abstract/15cw08avjgn71.webp)](.././abstract/15cw08avjgn71.webp)
   
- [![tjz0oeavjgn71.webp](.././abstract/tjz0oeavjgn71.webp)](.././abstract/tjz0oeavjgn71.webp)
+ [![m90bb95n3m651.webp](.././abstract/m90bb95n3m651.webp)](.././abstract/m90bb95n3m651.webp)
   
 
 ## [anime](.././anime)
   
  [![z-w-gu-img-20161019-132558.webp](.././anime/z-w-gu-img-20161019-132558.webp)](.././anime/z-w-gu-img-20161019-132558.webp)
   
- [![slcdn6avjgn71.webp](.././anime/slcdn6avjgn71.webp)](.././anime/slcdn6avjgn71.webp)
+ [![z-w-gu-canal.webp](.././anime/z-w-gu-canal.webp)](.././anime/z-w-gu-canal.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
- [![cars_on_a_train_track.webp](.././apocalypse/cars_on_a_train_track.webp)](.././apocalypse/cars_on_a_train_track.webp)
+ [![night_city_raining.webp](.././apocalypse/night_city_raining.webp)](.././apocalypse/night_city_raining.webp)
   
- [![a_car_parked_outside_a_motel.webp](.././apocalypse/a_car_parked_outside_a_motel.webp)](.././apocalypse/a_car_parked_outside_a_motel.webp)
+ [![qrme75ytbhx61.webp](.././apocalypse/qrme75ytbhx61.webp)](.././apocalypse/qrme75ytbhx61.webp)
+  
+
+## [arcane](.././arcane)
+  
+ [![S2 EP7 HeimerMusic (4).webp](.././arcane/S2 EP7 HeimerMusic (4).webp)](.././arcane/S2 EP7 HeimerMusic (4).webp)
+  
+ [![Act 3 (64).webp](.././arcane/Act 3 (64).webp)](.././arcane/Act 3 (64).webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![cat_waves.webp](.././catppuccin/cat_waves.webp)](.././catppuccin/cat_waves.webp)
+ [![san-fransisco.webp](.././catppuccin/san-fransisco.webp)](.././catppuccin/san-fransisco.webp)
   
- [![subway-dawn.webp](.././catppuccin/subway-dawn.webp)](.././catppuccin/subway-dawn.webp)
+ [![ricefieldsatsunset.webp](.././catppuccin/ricefieldsatsunset.webp)](.././catppuccin/ricefieldsatsunset.webp)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -51,7 +86,7 @@ Categorized wallpaper showcase. two pictures per category.
   
  [![1.webp](.././minimalistic/1.webp)](.././minimalistic/1.webp)
   
- [![py1i0j309go61.webp](.././minimalistic/py1i0j309go61.webp)](.././minimalistic/py1i0j309go61.webp)
+ [![od4q4z9vjgn71.webp](.././minimalistic/od4q4z9vjgn71.webp)](.././minimalistic/od4q4z9vjgn71.webp)
   
 
 ## [nature](.././nature)
@@ -63,9 +98,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [nord](.././nord)
   
- [![nord-wallpapers-v0-mpyy5m6t1t9a1.webp](.././nord/nord-wallpapers-v0-mpyy5m6t1t9a1.webp)](.././nord/nord-wallpapers-v0-mpyy5m6t1t9a1.webp)
+ [![1r1kk9qi00961.webp](.././nord/1r1kk9qi00961.webp)](.././nord/1r1kk9qi00961.webp)
   
- [![jeftoac9xwb61.webp](.././nord/jeftoac9xwb61.webp)](.././nord/jeftoac9xwb61.webp)
+ [![70.webp](.././nord/70.webp)](.././nord/70.webp)
   
 
 ## [pixelart](.././pixelart)

@@ -10,11 +10,10 @@ Categorized wallpaper showcase. two pictures per category.
 {{ range . }}
 ## {{ .Name }}
   {{  range $File := .Files }}
-<img src="{{ $File.Url }}" alt="{{$File.Description}}">
+ <a href="{{$File.Url}}"><img alt="{{$File.Description}}" src="{{$File.Url}}"></a><br/><br/>
   {{ end }}
 [browse]({{ .BrowseUrl }})
 {{ end }}
-
 
 
 

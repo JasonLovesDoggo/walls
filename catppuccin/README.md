@@ -2,15 +2,15 @@
 
 
 
-[![cat_waves.png](./cat_waves.png)](./cat_waves.png)
+[![cat_waves.webp](./cat_waves.webp)](./cat_waves.webp)
 
-[![isitmyescape.jpg](./isitmyescape.jpg)](./isitmyescape.jpg)
+[![isitmyescape.webp](./isitmyescape.webp)](./isitmyescape.webp)
 
-[![ricefieldsatsunset.jpg](./ricefieldsatsunset.jpg)](./ricefieldsatsunset.jpg)
+[![ricefieldsatsunset.webp](./ricefieldsatsunset.webp)](./ricefieldsatsunset.webp)
 
-[![san-fransisco.png](./san-fransisco.png)](./san-fransisco.png)
+[![san-fransisco.webp](./san-fransisco.webp)](./san-fransisco.webp)
 
-[![subway-dawn.jpeg](./subway-dawn.jpeg)](./subway-dawn.jpeg)
+[![subway-dawn.webp](./subway-dawn.webp)](./subway-dawn.webp)
 
-[![subway_right.jpg](./subway_right.jpg)](./subway_right.jpg)
+[![subway_right.webp](./subway_right.webp)](./subway_right.webp)
 

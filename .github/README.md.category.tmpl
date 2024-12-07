@@ -1,3 +1,6 @@
-{{range $image := .Images}}
-<a href="{{$image}}"><img alt="{{$image}}" src="{{$image}}"></a><br/><br/>
+# {{.Name}} Wallpapers
+
+{{.Description}}
+{{range .Files}}
+[![{{.Description}}]({{.Url}})]({{.Url}})
 {{end}}

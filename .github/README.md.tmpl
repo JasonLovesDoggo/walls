@@ -6,13 +6,11 @@ are shuffled, then the first two from each category are chosen.
 Categorized wallpaper showcase. two pictures per category.
 
 
-{{$collection:=0}}
 {{ range . }}
-## {{ .Name }}
-  {{  range $File := .Files }}
- <a href="{{$File.Url}}"><img alt="{{$File.Description}}" src="{{$File.Url}}"></a><br/><br/>
+## [{{.Name}}](../{{.BrowseUrl}})
+  {{  range .Files }}
+ [![{{.Description}}](../{{.Url}})](../{{.Url}})
   {{ end }}
-[browse]({{ .BrowseUrl }})
 {{ end }}
 
 

@@ -3,35 +3,52 @@ package main
 import (
 	"fmt"
 	"os"
+	"path/filepath"
 	"text/template"
 )
 
 const (
-	TemplateFile = "./README.md.tmpl"
-	OutputFile   = "README.md"
+	RootTemplateFile     = "./README.md.tmpl"
+	CategoryTemplateFile = "./README.md.category.tmpl"
+	OutputFile           = "README.md"
 )
 
 func main() {
-	tmpl, err := os.ReadFile(TemplateFile)
-	if err != nil {
-		panic(err)
-	}
-
-	parsedTemplate := template.Must(template.New("README").Parse(string(tmpl)))
-
-	// Run after parsing so if there are any errors, they will be caught before truncating the existing README.
-
-	o, err := os.Create("../" + OutputFile)
-	if err != nil {
-		panic(err)
-	}
-
+	// Collect all collections
 	collections := ParseDirectories("../")
 
-	err = parsedTemplate.Execute(o, collections)
+	// Create root README
+	err := createRootReadme(collections)
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println("Done")
 
+	fmt.Println("Done")
+}
+
+func createRootReadme(collections []Collection) error {
+	// Note: if you wish to have the README in the root directory, ensure to edit RootTemplateFile to remove the
+	/// ../ references
+	readmePath := filepath.Join(BaseDir, ".github", OutputFile)
+
+	// Parse the root README template
+	tmpl, err := template.New("RootReadme").Parse(RootReadmeTemplate)
+	if err != nil {
+		return err
+	}
+
+	// Create the README file
+	f, err := os.Create(readmePath)
+	if err != nil {
+		return err
+	}
+	defer f.Close()
+
+	// Execute the template
+	err = tmpl.Execute(f, collections)
+	if err != nil {
+		return err
+	}
+
+	return nil
 }

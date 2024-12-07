@@ -2,11 +2,11 @@
 
 
 
-[![1lba9vomb5g51.webp](./1lba9vomb5g51.webp)](./1lba9vomb5g51.webp)
+[![a_bridge_over_water_with_trees_around_it.webp](./a_bridge_over_water_with_trees_around_it.webp)](./a_bridge_over_water_with_trees_around_it.webp)
 
-[![bohmf1gew2y61.webp](./bohmf1gew2y61.webp)](./bohmf1gew2y61.webp)
+[![a_lake_surrounded_by_trees_and_a_cave.webp](./a_lake_surrounded_by_trees_and_a_cave.webp)](./a_lake_surrounded_by_trees_and_a_cave.webp)
 
-[![ck67dmp1ifw31.webp](./ck67dmp1ifw31.webp)](./ck67dmp1ifw31.webp)
+[![a_mountain_in_the_distance.webp](./a_mountain_in_the_distance.webp)](./a_mountain_in_the_distance.webp)
 
-[![wbjg3pqeaof21.webp](./wbjg3pqeaof21.webp)](./wbjg3pqeaof21.webp)
+[![a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp](./a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)](./a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)
 

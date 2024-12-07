@@ -2,11 +2,11 @@
 
 
 
-[![1.webp](./1.webp)](./1.webp)
+[![a_blue_circle_with_a_wave_in_the_middle.webp](./a_blue_circle_with_a_wave_in_the_middle.webp)](./a_blue_circle_with_a_wave_in_the_middle.webp)
 
-[![2.webp](./2.webp)](./2.webp)
+[![a_cartoon_of_two_white_people.webp](./a_cartoon_of_two_white_people.webp)](./a_cartoon_of_two_white_people.webp)
 
-[![od4q4z9vjgn71.webp](./od4q4z9vjgn71.webp)](./od4q4z9vjgn71.webp)
+[![a_cat_with_ears_and_eyes.webp](./a_cat_with_ears_and_eyes.webp)](./a_cat_with_ears_and_eyes.webp)
 
-[![py1i0j309go61.webp](./py1i0j309go61.webp)](./py1i0j309go61.webp)
+[![a_man_standing_in_a_forest.webp](./a_man_standing_in_a_forest.webp)](./a_man_standing_in_a_forest.webp)
 

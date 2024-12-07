@@ -7,124 +7,96 @@ Categorized wallpaper showcase. two pictures per category.
 
 
 
-## [Jinx Entrance S2 EP9](.././Jinx Entrance S2 EP9)
-  
- [![S2 EP9 JinxEntrance (04)-cgi-2x.webp](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (04)-cgi-2x.webp)](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (04)-cgi-2x.webp)
-  
- [![S2 EP9 JinxEntrance (01)-cgi-2x.webp](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (01)-cgi-2x.webp)](.././Jinx Entrance S2 EP9/S2 EP9 JinxEntrance (01)-cgi-2x.webp)
-  
-
-## [Jinx Fall EP9](.././Jinx Fall EP9)
-  
- [![S2 EP9 JinxFall (3).webp](.././Jinx Fall EP9/S2 EP9 JinxFall (3).webp)](.././Jinx Fall EP9/S2 EP9 JinxFall (3).webp)
-  
- [![S2 EP9 JinxFall (4).webp](.././Jinx Fall EP9/S2 EP9 JinxFall (4).webp)](.././Jinx Fall EP9/S2 EP9 JinxFall (4).webp)
-  
-
-## [Jinx-Vi back to back S2 EP9](.././Jinx-Vi back to back S2 EP9)
-  
- [![S2 EP9 JinxVi Request (01).webp](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (01).webp)](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (01).webp)
-  
- [![S2 EP9 JinxVi Request (02).webp](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (02).webp)](.././Jinx-Vi back to back S2 EP9/S2 EP9 JinxVi Request (02).webp)
-  
-
-## [TimeBomb EP7](.././TimeBomb EP7)
-  
- [![S2 EP7 JinxEkko (4).webp](.././TimeBomb EP7/S2 EP7 JinxEkko (4).webp)](.././TimeBomb EP7/S2 EP7 JinxEkko (4).webp)
-  
- [![S2 EP7 JinxEkko (1).webp](.././TimeBomb EP7/S2 EP7 JinxEkko (1).webp)](.././TimeBomb EP7/S2 EP7 JinxEkko (1).webp)
-  
-
 ## [abstract](.././abstract)
   
- [![15cw08avjgn71.webp](.././abstract/15cw08avjgn71.webp)](.././abstract/15cw08avjgn71.webp)
+ [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
   
- [![m90bb95n3m651.webp](.././abstract/m90bb95n3m651.webp)](.././abstract/m90bb95n3m651.webp)
+ [![a_snow_covered_mountains_with_a_red_and_white_line.webp](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)
   
 
 ## [anime](.././anime)
   
- [![z-w-gu-img-20161019-132558.webp](.././anime/z-w-gu-img-20161019-132558.webp)](.././anime/z-w-gu-img-20161019-132558.webp)
+ [![a_woman_holding_a_gun.webp](.././anime/a_woman_holding_a_gun.webp)](.././anime/a_woman_holding_a_gun.webp)
   
- [![z-w-gu-canal.webp](.././anime/z-w-gu-canal.webp)](.././anime/z-w-gu-canal.webp)
+ [![a_cartoon_of_a_woman_on_a_balcony.webp](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
- [![night_city_raining.webp](.././apocalypse/night_city_raining.webp)](.././apocalypse/night_city_raining.webp)
+ [![a_street_with_buildings_and_trees.webp](.././apocalypse/a_street_with_buildings_and_trees.webp)](.././apocalypse/a_street_with_buildings_and_trees.webp)
   
- [![qrme75ytbhx61.webp](.././apocalypse/qrme75ytbhx61.webp)](.././apocalypse/qrme75ytbhx61.webp)
+ [![a_dark_alley_with_people_walking_on_it.webp](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)
   
 
 ## [arcane](.././arcane)
   
- [![S2 EP7 HeimerMusic (4).webp](.././arcane/S2 EP7 HeimerMusic (4).webp)](.././arcane/S2 EP7 HeimerMusic (4).webp)
+ [![a_blue_lines_with_circles_and_circles_in_the_middle.webp](.././arcane/a_blue_lines_with_circles_and_circles_in_the_middle.webp)](.././arcane/a_blue_lines_with_circles_and_circles_in_the_middle.webp)
   
- [![Act 3 (64).webp](.././arcane/Act 3 (64).webp)](.././arcane/Act 3 (64).webp)
+ [![a_light_shining_through_a_hole_in_the_ground.webp](.././arcane/a_light_shining_through_a_hole_in_the_ground.webp)](.././arcane/a_light_shining_through_a_hole_in_the_ground.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![san-fransisco.webp](.././catppuccin/san-fransisco.webp)](.././catppuccin/san-fransisco.webp)
+ [![a_cat_on_a_rainbow_colored_line.webp](.././catppuccin/a_cat_on_a_rainbow_colored_line.webp)](.././catppuccin/a_cat_on_a_rainbow_colored_line.webp)
   
- [![ricefieldsatsunset.webp](.././catppuccin/ricefieldsatsunset.webp)](.././catppuccin/ricefieldsatsunset.webp)
+ [![a_girl_sitting_on_a_roof_overlooking_a_city.webp](.././catppuccin/a_girl_sitting_on_a_roof_overlooking_a_city.webp)](.././catppuccin/a_girl_sitting_on_a_roof_overlooking_a_city.webp)
   
 
 ## [cyberpunk](.././cyberpunk)
   
- [![sal80e0a7f671.webp](.././cyberpunk/sal80e0a7f671.webp)](.././cyberpunk/sal80e0a7f671.webp)
+ [![a_city_street_with_buildings_and_a_bridge.webp](.././cyberpunk/a_city_street_with_buildings_and_a_bridge.webp)](.././cyberpunk/a_city_street_with_buildings_and_a_bridge.webp)
   
 
 ## [memes](.././memes)
   
- [![keep-your-favorite-application-between-this-1920x1080-v0-4ms8b0yaq6i81.webp](.././memes/keep-your-favorite-application-between-this-1920x1080-v0-4ms8b0yaq6i81.webp)](.././memes/keep-your-favorite-application-between-this-1920x1080-v0-4ms8b0yaq6i81.webp)
+ [![a_collage_of_a_man_with_a_face_mask.webp](.././memes/a_collage_of_a_man_with_a_face_mask.webp)](.././memes/a_collage_of_a_man_with_a_face_mask.webp)
   
- [![idlfl5re13l51.webp](.././memes/idlfl5re13l51.webp)](.././memes/idlfl5re13l51.webp)
+ [![a_man_pointing_at_a_man_pointing_at_a_man.webp](.././memes/a_man_pointing_at_a_man_pointing_at_a_man.webp)](.././memes/a_man_pointing_at_a_man_pointing_at_a_man.webp)
   
 
 ## [minimalistic](.././minimalistic)
   
- [![1.webp](.././minimalistic/1.webp)](.././minimalistic/1.webp)
+ [![a_blue_circle_with_a_wave_in_the_middle.webp](.././minimalistic/a_blue_circle_with_a_wave_in_the_middle.webp)](.././minimalistic/a_blue_circle_with_a_wave_in_the_middle.webp)
   
- [![od4q4z9vjgn71.webp](.././minimalistic/od4q4z9vjgn71.webp)](.././minimalistic/od4q4z9vjgn71.webp)
+ [![a_cat_with_ears_and_eyes.webp](.././minimalistic/a_cat_with_ears_and_eyes.webp)](.././minimalistic/a_cat_with_ears_and_eyes.webp)
   
 
 ## [nature](.././nature)
   
- [![bohmf1gew2y61.webp](.././nature/bohmf1gew2y61.webp)](.././nature/bohmf1gew2y61.webp)
+ [![a_mountain_in_the_distance.webp](.././nature/a_mountain_in_the_distance.webp)](.././nature/a_mountain_in_the_distance.webp)
   
- [![ck67dmp1ifw31.webp](.././nature/ck67dmp1ifw31.webp)](.././nature/ck67dmp1ifw31.webp)
+ [![a_lake_surrounded_by_trees_and_a_cave.webp](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)
   
 
 ## [nord](.././nord)
   
- [![1r1kk9qi00961.webp](.././nord/1r1kk9qi00961.webp)](.././nord/1r1kk9qi00961.webp)
+ [![a_mountain_with_a_pink_sky.webp](.././nord/a_mountain_with_a_pink_sky.webp)](.././nord/a_mountain_with_a_pink_sky.webp)
   
- [![70.webp](.././nord/70.webp)](.././nord/70.webp)
+ [![a_person_in_a_hoodie.webp](.././nord/a_person_in_a_hoodie.webp)](.././nord/a_person_in_a_hoodie.webp)
   
 
 ## [pixelart](.././pixelart)
   
- [![e6ai4w9vjgn71.webp](.././pixelart/e6ai4w9vjgn71.webp)](.././pixelart/e6ai4w9vjgn71.webp)
+ [![a_building_on_a_hill.webp](.././pixelart/a_building_on_a_hill.webp)](.././pixelart/a_building_on_a_hill.webp)
   
 
 ## [scifi](.././scifi)
   
- [![t567zuzuvi271.webp](.././scifi/t567zuzuvi271.webp)](.././scifi/t567zuzuvi271.webp)
+ [![a_circular_object_with_a_yellow_and_orange_circle.webp](.././scifi/a_circular_object_with_a_yellow_and_orange_circle.webp)](.././scifi/a_circular_object_with_a_yellow_and_orange_circle.webp)
   
 
 ## [space](.././space)
   
- [![u5p5b3twe3251.webp](.././space/u5p5b3twe3251.webp)](.././space/u5p5b3twe3251.webp)
+ [![a_rocket_launching_into_the_sky.webp](.././space/a_rocket_launching_into_the_sky.webp)](.././space/a_rocket_launching_into_the_sky.webp)
   
- [![the-frontier-a-painting-by-me-5120x2880-v0-8mve8fn0s3q81.webp](.././space/the-frontier-a-painting-by-me-5120x2880-v0-8mve8fn0s3q81.webp)](.././space/the-frontier-a-painting-by-me-5120x2880-v0-8mve8fn0s3q81.webp)
+ [![a_rocket_launching_with_smoke_and_clouds_of_smoke.webp](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)
   
 
 ## [uncategorized](.././uncategorized)
   
- [![darek-zabrocki-marine-11-final.webp](.././uncategorized/darek-zabrocki-marine-11-final.webp)](.././uncategorized/darek-zabrocki-marine-11-final.webp)
+ [![a_large_ship_in_the_water.webp](.././uncategorized/a_large_ship_in_the_water.webp)](.././uncategorized/a_large_ship_in_the_water.webp)
   
- [![Great_Wall_of_Namib.webp](.././uncategorized/Great_Wall_of_Namib.webp)](.././uncategorized/Great_Wall_of_Namib.webp)
+ [![a_sand_dune_with_trees_in_the_foreground.webp](.././uncategorized/a_sand_dune_with_trees_in_the_foreground.webp)](.././uncategorized/a_sand_dune_with_trees_in_the_foreground.webp)
   
 
 

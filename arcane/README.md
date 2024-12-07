@@ -1,102 +1,130 @@
 # arcane Wallpapers
 
+All photos are taken from the [u/G2Eneko's Reddit post](https://www.reddit.com/r/arcane/comments/1govgyn/s2_spoilers_season_2_wallpapers_350_screenshots/).
 
+[![a_blue_light_swirls_in_the_shape_of_a_number.webp](./a_blue_light_swirls_in_the_shape_of_a_number.webp)](./a_blue_light_swirls_in_the_shape_of_a_number.webp)
 
-[![Act 1 (15).webp](./Act 1 (15).webp)](./Act 1 (15).webp)
+[![a_blue_lines_with_circles_and_circles_in_the_middle.webp](./a_blue_lines_with_circles_and_circles_in_the_middle.webp)](./a_blue_lines_with_circles_and_circles_in_the_middle.webp)
 
-[![Act 1 (16).webp](./Act 1 (16).webp)](./Act 1 (16).webp)
+[![a_bridge_over_a_building.webp](./a_bridge_over_a_building.webp)](./a_bridge_over_a_building.webp)
 
-[![Act 1 (5).webp](./Act 1 (5).webp)](./Act 1 (5).webp)
+[![a_bridge_with_smoke_coming_out_of_it.webp](./a_bridge_with_smoke_coming_out_of_it.webp)](./a_bridge_with_smoke_coming_out_of_it.webp)
 
-[![Act 1 (52).webp](./Act 1 (52).webp)](./Act 1 (52).webp)
+[![a_building_with_a_clock_on_top.webp](./a_building_with_a_clock_on_top.webp)](./a_building_with_a_clock_on_top.webp)
 
-[![Act 1 (7).webp](./Act 1 (7).webp)](./Act 1 (7).webp)
+[![a_building_with_a_fire_in_the_sky.webp](./a_building_with_a_fire_in_the_sky.webp)](./a_building_with_a_fire_in_the_sky.webp)
 
-[![Act 1 (9).webp](./Act 1 (9).webp)](./Act 1 (9).webp)
+[![a_building_with_towers_and_a_blue_sky.webp](./a_building_with_towers_and_a_blue_sky.webp)](./a_building_with_towers_and_a_blue_sky.webp)
 
-[![Act 2 (12).webp](./Act 2 (12).webp)](./Act 2 (12).webp)
+[![a_cartoon_of_a_castle_in_the_clouds.webp](./a_cartoon_of_a_castle_in_the_clouds.webp)](./a_cartoon_of_a_castle_in_the_clouds.webp)
 
-[![Act 2 (18).webp](./Act 2 (18).webp)](./Act 2 (18).webp)
+[![a_cartoon_of_a_city_with_a_balloon_flying_over_it.webp](./a_cartoon_of_a_city_with_a_balloon_flying_over_it.webp)](./a_cartoon_of_a_city_with_a_balloon_flying_over_it.webp)
 
-[![Act 2 (22).webp](./Act 2 (22).webp)](./Act 2 (22).webp)
+[![a_cartoon_of_a_man_holding_a_weapon.webp](./a_cartoon_of_a_man_holding_a_weapon.webp)](./a_cartoon_of_a_man_holding_a_weapon.webp)
 
-[![Act 2 (29).webp](./Act 2 (29).webp)](./Act 2 (29).webp)
+[![a_cartoon_of_a_man_standing_on_a_pipe_in_a_city.webp](./a_cartoon_of_a_man_standing_on_a_pipe_in_a_city.webp)](./a_cartoon_of_a_man_standing_on_a_pipe_in_a_city.webp)
 
-[![Act 2 (34).webp](./Act 2 (34).webp)](./Act 2 (34).webp)
+[![a_cartoon_of_a_monster_holding_a_stick.webp](./a_cartoon_of_a_monster_holding_a_stick.webp)](./a_cartoon_of_a_monster_holding_a_stick.webp)
 
-[![Act 2 (64).webp](./Act 2 (64).webp)](./Act 2 (64).webp)
+[![a_cartoon_of_a_toy_rabbit_sitting_on_a_machine.webp](./a_cartoon_of_a_toy_rabbit_sitting_on_a_machine.webp)](./a_cartoon_of_a_toy_rabbit_sitting_on_a_machine.webp)
 
-[![Act 2 (76).webp](./Act 2 (76).webp)](./Act 2 (76).webp)
+[![a_cartoon_of_a_woman_holding_a_gun.webp](./a_cartoon_of_a_woman_holding_a_gun.webp)](./a_cartoon_of_a_woman_holding_a_gun.webp)
 
-[![Act 2 (82).webp](./Act 2 (82).webp)](./Act 2 (82).webp)
+[![a_cartoon_of_a_woman_with_blood_on_her_face.webp](./a_cartoon_of_a_woman_with_blood_on_her_face.webp)](./a_cartoon_of_a_woman_with_blood_on_her_face.webp)
 
-[![Act 3 (19).webp](./Act 3 (19).webp)](./Act 3 (19).webp)
+[![a_cartoon_of_a_woman_with_blue_hair.webp](./a_cartoon_of_a_woman_with_blue_hair.webp)](./a_cartoon_of_a_woman_with_blue_hair.webp)
 
-[![Act 3 (20).webp](./Act 3 (20).webp)](./Act 3 (20).webp)
+[![a_cartoon_of_a_woman_with_blue_hair_01.webp](./a_cartoon_of_a_woman_with_blue_hair_01.webp)](./a_cartoon_of_a_woman_with_blue_hair_01.webp)
 
-[![Act 3 (23).webp](./Act 3 (23).webp)](./Act 3 (23).webp)
+[![a_cartoon_of_a_woman_with_blue_hair_and_a_large_blue_spot.webp](./a_cartoon_of_a_woman_with_blue_hair_and_a_large_blue_spot.webp)](./a_cartoon_of_a_woman_with_blue_hair_and_a_large_blue_spot.webp)
 
-[![Act 3 (27).webp](./Act 3 (27).webp)](./Act 3 (27).webp)
+[![a_cartoon_of_a_woman_with_glowing_eyes.webp](./a_cartoon_of_a_woman_with_glowing_eyes.webp)](./a_cartoon_of_a_woman_with_glowing_eyes.webp)
 
-[![Act 3 (30).webp](./Act 3 (30).webp)](./Act 3 (30).webp)
+[![a_cartoon_of_a_woman_with_red_eyes.webp](./a_cartoon_of_a_woman_with_red_eyes.webp)](./a_cartoon_of_a_woman_with_red_eyes.webp)
 
-[![Act 3 (5).webp](./Act 3 (5).webp)](./Act 3 (5).webp)
+[![a_cartoon_of_two_characters_in_a_round_hole.webp](./a_cartoon_of_two_characters_in_a_round_hole.webp)](./a_cartoon_of_two_characters_in_a_round_hole.webp)
 
-[![Act 3 (64).webp](./Act 3 (64).webp)](./Act 3 (64).webp)
+[![a_city_with_many_buildings_and_people_walking.webp](./a_city_with_many_buildings_and_people_walking.webp)](./a_city_with_many_buildings_and_people_walking.webp)
 
-[![Act 3 (94).webp](./Act 3 (94).webp)](./Act 3 (94).webp)
+[![a_close_up_of_a_person's_face.webp](./a_close_up_of_a_person's_face.webp)](./a_close_up_of_a_person's_face.webp)
 
-[![Intro (10).webp](./Intro (10).webp)](./Intro (10).webp)
+[![a_close_up_of_a_sculpture.webp](./a_close_up_of_a_sculpture.webp)](./a_close_up_of_a_sculpture.webp)
 
-[![Intro (12).webp](./Intro (12).webp)](./Intro (12).webp)
+[![a_close_up_of_a_woman's_face.webp](./a_close_up_of_a_woman's_face.webp)](./a_close_up_of_a_woman's_face.webp)
 
-[![Intro (9).webp](./Intro (9).webp)](./Intro (9).webp)
+[![a_colorful_artwork_with_neon_lights.webp](./a_colorful_artwork_with_neon_lights.webp)](./a_colorful_artwork_with_neon_lights.webp)
 
-[![Jinx Ekko Dance Top View.webp](./Jinx Ekko Dance Top View.webp)](./Jinx Ekko Dance Top View.webp)
+[![a_couple_of_women_looking_at_each_other.webp](./a_couple_of_women_looking_at_each_other.webp)](./a_couple_of_women_looking_at_each_other.webp)
 
-[![S02EP5-010-4K.webp](./S02EP5-010-4K.webp)](./S02EP5-010-4K.webp)
+[![a_couple_of_women_looking_at_each_other_01.webp](./a_couple_of_women_looking_at_each_other_01.webp)](./a_couple_of_women_looking_at_each_other_01.webp)
 
-[![S02EP5-013-4K.webp](./S02EP5-013-4K.webp)](./S02EP5-013-4K.webp)
+[![a_couple_of_women_with_colorful_hair_and_a_gun.webp](./a_couple_of_women_with_colorful_hair_and_a_gun.webp)](./a_couple_of_women_with_colorful_hair_and_a_gun.webp)
 
-[![S02EP7-002-4K.webp](./S02EP7-002-4K.webp)](./S02EP7-002-4K.webp)
+[![a_couple_of_women_with_colorful_hair_and_a_robot.webp](./a_couple_of_women_with_colorful_hair_and_a_robot.webp)](./a_couple_of_women_with_colorful_hair_and_a_robot.webp)
 
-[![S02EP7-003-4K.webp](./S02EP7-003-4K.webp)](./S02EP7-003-4K.webp)
+[![a_green_and_purple_butterfly_shaped_object.webp](./a_green_and_purple_butterfly_shaped_object.webp)](./a_green_and_purple_butterfly_shaped_object.webp)
 
-[![S02EP9-013-4K.webp](./S02EP9-013-4K.webp)](./S02EP9-013-4K.webp)
+[![a_group_of_people_in_a_dark_room.webp](./a_group_of_people_in_a_dark_room.webp)](./a_group_of_people_in_a_dark_room.webp)
 
-[![S02EP9-016-4K.webp](./S02EP9-016-4K.webp)](./S02EP9-016-4K.webp)
+[![a_group_of_people_standing_on_a_ledge_looking_at_a_city.webp](./a_group_of_people_standing_on_a_ledge_looking_at_a_city.webp)](./a_group_of_people_standing_on_a_ledge_looking_at_a_city.webp)
 
-[![S1 EP1 (09)-cgi-2x.webp](./S1 EP1 (09)-cgi-2x.webp)](./S1 EP1 (09)-cgi-2x.webp)
+[![a_group_of_people_standing_outside_a_building.webp](./a_group_of_people_standing_outside_a_building.webp)](./a_group_of_people_standing_outside_a_building.webp)
 
-[![S1 EP1 (10)-cgi-2x.webp](./S1 EP1 (10)-cgi-2x.webp)](./S1 EP1 (10)-cgi-2x.webp)
+[![a_group_of_people_with_different_faces.webp](./a_group_of_people_with_different_faces.webp)](./a_group_of_people_with_different_faces.webp)
 
-[![S1 EP1 (11)-cgi-2x.webp](./S1 EP1 (11)-cgi-2x.webp)](./S1 EP1 (11)-cgi-2x.webp)
+[![a_gun_on_a_plant.webp](./a_gun_on_a_plant.webp)](./a_gun_on_a_plant.webp)
 
-[![S2 EP1 4K (51).webp](./S2 EP1 4K (51).webp)](./S2 EP1 4K (51).webp)
+[![a_large_bridge_with_a_purple_explosion.webp](./a_large_bridge_with_a_purple_explosion.webp)](./a_large_bridge_with_a_purple_explosion.webp)
 
-[![S2 EP3 4K (6).webp](./S2 EP3 4K (6).webp)](./S2 EP3 4K (6).webp)
+[![a_light_in_a_circle.webp](./a_light_in_a_circle.webp)](./a_light_in_a_circle.webp)
 
-[![S2 EP3 Request 4K (04).webp](./S2 EP3 Request 4K (04).webp)](./S2 EP3 Request 4K (04).webp)
+[![a_light_shining_through_a_hole_in_the_ground.webp](./a_light_shining_through_a_hole_in_the_ground.webp)](./a_light_shining_through_a_hole_in_the_ground.webp)
 
-[![S2 EP3 poow (13).webp](./S2 EP3 poow (13).webp)](./S2 EP3 poow (13).webp)
+[![a_man_and_child_looking_at_a_city_at_the_moon.webp](./a_man_and_child_looking_at_a_city_at_the_moon.webp)](./a_man_and_child_looking_at_a_city_at_the_moon.webp)
 
-[![S2 EP3 poow (21).webp](./S2 EP3 poow (21).webp)](./S2 EP3 poow (21).webp)
+[![a_man_standing_in_a_factory.webp](./a_man_standing_in_a_factory.webp)](./a_man_standing_in_a_factory.webp)
 
-[![S2 EP4 (43).webp](./S2 EP4 (43).webp)](./S2 EP4 (43).webp)
+[![a_man_standing_next_to_a_person.webp](./a_man_standing_next_to_a_person.webp)](./a_man_standing_next_to_a_person.webp)
 
-[![S2 EP7 HeimerMusic (4).webp](./S2 EP7 HeimerMusic (4).webp)](./S2 EP7 HeimerMusic (4).webp)
+[![a_painting_of_a_city_with_people_in_the_background.webp](./a_painting_of_a_city_with_people_in_the_background.webp)](./a_painting_of_a_city_with_people_in_the_background.webp)
 
-[![S2 EP7 Zdrive (2).webp](./S2 EP7 Zdrive (2).webp)](./S2 EP7 Zdrive (2).webp)
+[![a_person_holding_a_lightening_stick.webp](./a_person_holding_a_lightening_stick.webp)](./a_person_holding_a_lightening_stick.webp)
 
-[![S2 EP7 Zdrive (4).webp](./S2 EP7 Zdrive (4).webp)](./S2 EP7 Zdrive (4).webp)
+[![a_person_in_a_garment.webp](./a_person_in_a_garment.webp)](./a_person_in_a_garment.webp)
 
-[![S2 EP8 JinxIsha (01).webp](./S2 EP8 JinxIsha (01).webp)](./S2 EP8 JinxIsha (01).webp)
+[![a_person_in_a_white_robe_standing_in_a_doorway.webp](./a_person_in_a_white_robe_standing_in_a_doorway.webp)](./a_person_in_a_white_robe_standing_in_a_doorway.webp)
 
-[![S2 EP9 EkkoSad (02).webp](./S2 EP9 EkkoSad (02).webp)](./S2 EP9 EkkoSad (02).webp)
+[![a_person_standing_in_a_field_of_flowers.webp](./a_person_standing_in_a_field_of_flowers.webp)](./a_person_standing_in_a_field_of_flowers.webp)
 
-[![S2 EP9 Jinx Sacrifice (17).webp](./S2 EP9 Jinx Sacrifice (17).webp)](./S2 EP9 Jinx Sacrifice (17).webp)
+[![a_pond_with_a_statue_and_trees.webp](./a_pond_with_a_statue_and_trees.webp)](./a_pond_with_a_statue_and_trees.webp)
 
-[![S2 EP9 JinxBoom (02).webp](./S2 EP9 JinxBoom (02).webp)](./S2 EP9 JinxBoom (02).webp)
+[![a_screenshot_of_a_video_game.webp](./a_screenshot_of_a_video_game.webp)](./a_screenshot_of_a_video_game.webp)
 
-[![S2 EP9 MelEntrance (01).webp](./S2 EP9 MelEntrance (01).webp)](./S2 EP9 MelEntrance (01).webp)
+[![a_screenshot_of_a_video_game_01.webp](./a_screenshot_of_a_video_game_01.webp)](./a_screenshot_of_a_video_game_01.webp)
+
+[![a_screenshot_of_a_video_game_02.webp](./a_screenshot_of_a_video_game_02.webp)](./a_screenshot_of_a_video_game_02.webp)
+
+[![a_statue_of_a_man_holding_a_light_in_his_hand.webp](./a_statue_of_a_man_holding_a_light_in_his_hand.webp)](./a_statue_of_a_man_holding_a_light_in_his_hand.webp)
+
+[![a_statue_of_a_man_reading_a_book.webp](./a_statue_of_a_man_reading_a_book.webp)](./a_statue_of_a_man_reading_a_book.webp)
+
+[![a_statue_of_a_woman_holding_a_weapon.webp](./a_statue_of_a_woman_holding_a_weapon.webp)](./a_statue_of_a_woman_holding_a_weapon.webp)
+
+[![a_tower_with_a_blue_light.webp](./a_tower_with_a_blue_light.webp)](./a_tower_with_a_blue_light.webp)
+
+[![a_white_fluffy_animal_with_a_pink_bow_and_mustache.webp](./a_white_fluffy_animal_with_a_pink_bow_and_mustache.webp)](./a_white_fluffy_animal_with_a_pink_bow_and_mustache.webp)
+
+[![a_woman_standing_in_a_room_with_a_city_in_the_background.webp](./a_woman_standing_in_a_room_with_a_city_in_the_background.webp)](./a_woman_standing_in_a_room_with_a_city_in_the_background.webp)
+
+[![a_woman_with_blue_hair_and_a_dark_background.webp](./a_woman_with_blue_hair_and_a_dark_background.webp)](./a_woman_with_blue_hair_and_a_dark_background.webp)
+
+[![a_woman_with_blue_hair_and_a_white_face.webp](./a_woman_with_blue_hair_and_a_white_face.webp)](./a_woman_with_blue_hair_and_a_white_face.webp)
+
+[![a_woman_with_blue_hair_and_white_face.webp](./a_woman_with_blue_hair_and_white_face.webp)](./a_woman_with_blue_hair_and_white_face.webp)
+
+[![a_woman_with_her_arm_up.webp](./a_woman_with_her_arm_up.webp)](./a_woman_with_her_arm_up.webp)
+
+[![a_woman_with_short_hair_and_a_blue_shirt.webp](./a_woman_with_short_hair_and_a_blue_shirt.webp)](./a_woman_with_short_hair_and_a_blue_shirt.webp)
+
+[![two_people_walking_in_the_snow.webp](./two_people_walking_in_the_snow.webp)](./two_people_walking_in_the_snow.webp)
 

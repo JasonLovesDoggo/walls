@@ -2,7 +2,7 @@
 
 
 
-[![the-frontier-a-painting-by-me-5120x2880-v0-8mve8fn0s3q81.webp](./the-frontier-a-painting-by-me-5120x2880-v0-8mve8fn0s3q81.webp)](./the-frontier-a-painting-by-me-5120x2880-v0-8mve8fn0s3q81.webp)
+[![a_rocket_launching_into_the_sky.webp](./a_rocket_launching_into_the_sky.webp)](./a_rocket_launching_into_the_sky.webp)
 
-[![u5p5b3twe3251.webp](./u5p5b3twe3251.webp)](./u5p5b3twe3251.webp)
+[![a_rocket_launching_with_smoke_and_clouds_of_smoke.webp](./a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)](./a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)
 

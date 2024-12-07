@@ -2,5 +2,5 @@
 
 
 
-[![sal80e0a7f671.webp](./sal80e0a7f671.webp)](./sal80e0a7f671.webp)
+[![a_city_street_with_buildings_and_a_bridge.webp](./a_city_street_with_buildings_and_a_bridge.webp)](./a_city_street_with_buildings_and_a_bridge.webp)
 

@@ -2,17 +2,17 @@
 
 
 
-[![1r1kk9qi00961.webp](./1r1kk9qi00961.webp)](./1r1kk9qi00961.webp)
+[![a_blue_and_grey_wavy_lines.webp](./a_blue_and_grey_wavy_lines.webp)](./a_blue_and_grey_wavy_lines.webp)
 
-[![70.webp](./70.webp)](./70.webp)
+[![a_graphic_design_of_a_bird.webp](./a_graphic_design_of_a_bird.webp)](./a_graphic_design_of_a_bird.webp)
 
-[![78.webp](./78.webp)](./78.webp)
+[![a_logo_of_a_microsoft_windows.webp](./a_logo_of_a_microsoft_windows.webp)](./a_logo_of_a_microsoft_windows.webp)
 
-[![jeftoac9xwb61.webp](./jeftoac9xwb61.webp)](./jeftoac9xwb61.webp)
+[![a_mountain_range_at_night.webp](./a_mountain_range_at_night.webp)](./a_mountain_range_at_night.webp)
 
-[![nord-wallpapers-v0-mpyy5m6t1t9a1.webp](./nord-wallpapers-v0-mpyy5m6t1t9a1.webp)](./nord-wallpapers-v0-mpyy5m6t1t9a1.webp)
+[![a_mountain_with_a_pink_sky.webp](./a_mountain_with_a_pink_sky.webp)](./a_mountain_with_a_pink_sky.webp)
 
-[![nord-wallpapers-v0-uhgiul6t1t9a1.webp](./nord-wallpapers-v0-uhgiul6t1t9a1.webp)](./nord-wallpapers-v0-uhgiul6t1t9a1.webp)
+[![a_person_in_a_hoodie.webp](./a_person_in_a_hoodie.webp)](./a_person_in_a_hoodie.webp)
 
-[![nord-waves-v0-a9igxtc02xwd1.webp](./nord-waves-v0-a9igxtc02xwd1.webp)](./nord-waves-v0-a9igxtc02xwd1.webp)
+[![a_tower_in_the_forest.webp](./a_tower_in_the_forest.webp)](./a_tower_in_the_forest.webp)
 

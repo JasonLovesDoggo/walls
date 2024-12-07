@@ -2,9 +2,9 @@
 
 
 
-[![15cw08avjgn71.webp](./15cw08avjgn71.webp)](./15cw08avjgn71.webp)
+[![a_close_up_of_a_painting.webp](./a_close_up_of_a_painting.webp)](./a_close_up_of_a_painting.webp)
 
-[![m90bb95n3m651.webp](./m90bb95n3m651.webp)](./m90bb95n3m651.webp)
+[![a_group_of_planets_in_space.webp](./a_group_of_planets_in_space.webp)](./a_group_of_planets_in_space.webp)
 
-[![tjz0oeavjgn71.webp](./tjz0oeavjgn71.webp)](./tjz0oeavjgn71.webp)
+[![a_snow_covered_mountains_with_a_red_and_white_line.webp](./a_snow_covered_mountains_with_a_red_and_white_line.webp)](./a_snow_covered_mountains_with_a_red_and_white_line.webp)
 

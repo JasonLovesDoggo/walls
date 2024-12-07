@@ -11,28 +11,28 @@ Categorized wallpaper showcase. two pictures per category.
   
  [![m90bb95n3m651.webp](.././abstract/m90bb95n3m651.webp)](.././abstract/m90bb95n3m651.webp)
   
- [![15cw08avjgn71.webp](.././abstract/15cw08avjgn71.webp)](.././abstract/15cw08avjgn71.webp)
+ [![tjz0oeavjgn71.webp](.././abstract/tjz0oeavjgn71.webp)](.././abstract/tjz0oeavjgn71.webp)
   
 
 ## [anime](.././anime)
   
- [![z-w-gu-canal.webp](.././anime/z-w-gu-canal.webp)](.././anime/z-w-gu-canal.webp)
-  
  [![z-w-gu-img-20161019-132558.webp](.././anime/z-w-gu-img-20161019-132558.webp)](.././anime/z-w-gu-img-20161019-132558.webp)
+  
+ [![slcdn6avjgn71.webp](.././anime/slcdn6avjgn71.webp)](.././anime/slcdn6avjgn71.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
- [![a_car_parked_outside_a_motel.webp](.././apocalypse/a_car_parked_outside_a_motel.webp)](.././apocalypse/a_car_parked_outside_a_motel.webp)
+ [![cars_on_a_train_track.webp](.././apocalypse/cars_on_a_train_track.webp)](.././apocalypse/cars_on_a_train_track.webp)
   
- [![night_city_raining.webp](.././apocalypse/night_city_raining.webp)](.././apocalypse/night_city_raining.webp)
+ [![a_car_parked_outside_a_motel.webp](.././apocalypse/a_car_parked_outside_a_motel.webp)](.././apocalypse/a_car_parked_outside_a_motel.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![ricefieldsatsunset.webp](.././catppuccin/ricefieldsatsunset.webp)](.././catppuccin/ricefieldsatsunset.webp)
-  
  [![cat_waves.webp](.././catppuccin/cat_waves.webp)](.././catppuccin/cat_waves.webp)
+  
+ [![subway-dawn.webp](.././catppuccin/subway-dawn.webp)](.././catppuccin/subway-dawn.webp)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -49,23 +49,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [minimalistic](.././minimalistic)
   
- [![od4q4z9vjgn71.webp](.././minimalistic/od4q4z9vjgn71.webp)](.././minimalistic/od4q4z9vjgn71.webp)
-  
  [![1.webp](.././minimalistic/1.webp)](.././minimalistic/1.webp)
+  
+ [![py1i0j309go61.webp](.././minimalistic/py1i0j309go61.webp)](.././minimalistic/py1i0j309go61.webp)
   
 
 ## [nature](.././nature)
   
- [![1lba9vomb5g51.webp](.././nature/1lba9vomb5g51.webp)](.././nature/1lba9vomb5g51.webp)
+ [![bohmf1gew2y61.webp](.././nature/bohmf1gew2y61.webp)](.././nature/bohmf1gew2y61.webp)
   
  [![ck67dmp1ifw31.webp](.././nature/ck67dmp1ifw31.webp)](.././nature/ck67dmp1ifw31.webp)
   
 
 ## [nord](.././nord)
   
- [![1r1kk9qi00961.webp](.././nord/1r1kk9qi00961.webp)](.././nord/1r1kk9qi00961.webp)
+ [![nord-wallpapers-v0-mpyy5m6t1t9a1.webp](.././nord/nord-wallpapers-v0-mpyy5m6t1t9a1.webp)](.././nord/nord-wallpapers-v0-mpyy5m6t1t9a1.webp)
   
- [![nord-waves-v0-a9igxtc02xwd1.webp](.././nord/nord-waves-v0-a9igxtc02xwd1.webp)](.././nord/nord-waves-v0-a9igxtc02xwd1.webp)
+ [![jeftoac9xwb61.webp](.././nord/jeftoac9xwb61.webp)](.././nord/jeftoac9xwb61.webp)
   
 
 ## [pixelart](.././pixelart)
@@ -87,9 +87,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [uncategorized](.././uncategorized)
   
- [![Great_Wall_of_Namib.webp](.././uncategorized/Great_Wall_of_Namib.webp)](.././uncategorized/Great_Wall_of_Namib.webp)
-  
  [![darek-zabrocki-marine-11-final.webp](.././uncategorized/darek-zabrocki-marine-11-final.webp)](.././uncategorized/darek-zabrocki-marine-11-final.webp)
+  
+ [![Great_Wall_of_Namib.webp](.././uncategorized/Great_Wall_of_Namib.webp)](.././uncategorized/Great_Wall_of_Namib.webp)
   
 
 

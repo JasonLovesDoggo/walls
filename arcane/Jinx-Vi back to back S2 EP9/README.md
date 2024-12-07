@@ -2,7 +2,3 @@
 
 
 
-[![S2 EP9 JinxVi Request (01).webp](./S2 EP9 JinxVi Request (01).webp)](./S2 EP9 JinxVi Request (01).webp)
-
-[![S2 EP9 JinxVi Request (02).webp](./S2 EP9 JinxVi Request (02).webp)](./S2 EP9 JinxVi Request (02).webp)
-

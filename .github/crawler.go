@@ -6,6 +6,7 @@ import (
 	"os"
 	"path/filepath"
 	"slices"
+	"sort"
 	"strings"
 	"text/template"
 )
@@ -108,6 +109,11 @@ func ParseDirectories(root string) []Collection {
 		fmt.Printf("Error walking directories: %v\n", err)
 		return nil
 	}
+	// sort the collection files by alphabetical order
+	sort.SliceStable(collections, func(i, j int) bool {
+		return collections[i].Name < collections[j].Name
+	})
+
 	return collections
 }
 

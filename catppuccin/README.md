@@ -2,15 +2,23 @@
 
 
 
-[![a_cat_on_a_rainbow_colored_line.webp](./a_cat_on_a_rainbow_colored_line.webp)](./a_cat_on_a_rainbow_colored_line.webp)
+[![a black and white fractal.png](./a black and white fractal.png)](./a black and white fractal.png)
 
-[![a_city_skyline_at_night.webp](./a_city_skyline_at_night.webp)](./a_city_skyline_at_night.webp)
+[![a black circle with white lines.png](./a black circle with white lines.png)](./a black circle with white lines.png)
 
-[![a_girl_sitting_on_a_roof_overlooking_a_city.webp](./a_girl_sitting_on_a_roof_overlooking_a_city.webp)](./a_girl_sitting_on_a_roof_overlooking_a_city.webp)
+[![a building with a pink cloud in the sky.png](./a building with a pink cloud in the sky.png)](./a building with a pink cloud in the sky.png)
 
-[![a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp](./a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp)](./a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp)
+[![a cat on a rainbow colored line.webp](./a cat on a rainbow colored line.webp)](./a cat on a rainbow colored line.webp)
 
-[![a_sunset_over_a_field.webp](./a_sunset_over_a_field.webp)](./a_sunset_over_a_field.webp)
+[![a city skyline at night.webp](./a city skyline at night.webp)](./a city skyline at night.webp)
 
-[![a_train_tracks_in_a_city.webp](./a_train_tracks_in_a_city.webp)](./a_train_tracks_in_a_city.webp)
+[![a girl sitting on a roof overlooking a city.webp](./a girl sitting on a roof overlooking a city.webp)](./a girl sitting on a roof overlooking a city.webp)
+
+[![a man standing on a sidewalk looking at a glowing cube.webp](./a man standing on a sidewalk looking at a glowing cube.webp)](./a man standing on a sidewalk looking at a glowing cube.webp)
+
+[![a screenshot of a computer.jpg](./a screenshot of a computer.jpg)](./a screenshot of a computer.jpg)
+
+[![a sunset over a field.webp](./a sunset over a field.webp)](./a sunset over a field.webp)
+
+[![a train tracks in a city.webp](./a train tracks in a city.webp)](./a train tracks in a city.webp)
 

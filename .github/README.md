@@ -9,37 +9,37 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [abstract](.././abstract)
   
- [![a_close_up_of_a_painting.webp](.././abstract/a_close_up_of_a_painting.webp)](.././abstract/a_close_up_of_a_painting.webp)
-  
  [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
+  
+ [![a_close_up_of_a_painting.webp](.././abstract/a_close_up_of_a_painting.webp)](.././abstract/a_close_up_of_a_painting.webp)
   
 
 ## [anime](.././anime)
   
- [![a_cartoon_of_a_woman_on_a_balcony.webp](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)
-  
  [![a_woman_holding_a_gun.webp](.././anime/a_woman_holding_a_gun.webp)](.././anime/a_woman_holding_a_gun.webp)
+  
+ [![a_cartoon_of_a_woman_on_a_balcony.webp](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
- [![cars_on_a_train_track.webp](.././apocalypse/cars_on_a_train_track.webp)](.././apocalypse/cars_on_a_train_track.webp)
+ [![a_street_with_buildings_and_trees.webp](.././apocalypse/a_street_with_buildings_and_trees.webp)](.././apocalypse/a_street_with_buildings_and_trees.webp)
   
- [![a_power_lines_and_power_poles.webp](.././apocalypse/a_power_lines_and_power_poles.webp)](.././apocalypse/a_power_lines_and_power_poles.webp)
+ [![cars_on_a_train_track.webp](.././apocalypse/cars_on_a_train_track.webp)](.././apocalypse/cars_on_a_train_track.webp)
   
 
 ## [arcane](.././arcane)
   
- [![a_building_with_a_clock_on_top.webp](.././arcane/a_building_with_a_clock_on_top.webp)](.././arcane/a_building_with_a_clock_on_top.webp)
+ [![a_statue_of_a_man_reading_a_book.webp](.././arcane/a_statue_of_a_man_reading_a_book.webp)](.././arcane/a_statue_of_a_man_reading_a_book.webp)
   
- [![a_cartoon_of_a_woman_with_blue_hair_01.webp](.././arcane/a_cartoon_of_a_woman_with_blue_hair_01.webp)](.././arcane/a_cartoon_of_a_woman_with_blue_hair_01.webp)
+ [![a_cartoon_of_a_woman_with_blood_on_her_face.webp](.././arcane/a_cartoon_of_a_woman_with_blood_on_her_face.webp)](.././arcane/a_cartoon_of_a_woman_with_blood_on_her_face.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![a_cat_on_a_rainbow_colored_line.webp](.././catppuccin/a_cat_on_a_rainbow_colored_line.webp)](.././catppuccin/a_cat_on_a_rainbow_colored_line.webp)
+ [![a_building_with_a_pink_cloud_in_the_sky.png](.././catppuccin/a_building_with_a_pink_cloud_in_the_sky.png)](.././catppuccin/a_building_with_a_pink_cloud_in_the_sky.png)
   
- [![a_girl_sitting_on_a_roof_overlooking_a_city.webp](.././catppuccin/a_girl_sitting_on_a_roof_overlooking_a_city.webp)](.././catppuccin/a_girl_sitting_on_a_roof_overlooking_a_city.webp)
+ [![a_screenshot_of_a_computer.jpg](.././catppuccin/a_screenshot_of_a_computer.jpg)](.././catppuccin/a_screenshot_of_a_computer.jpg)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -56,23 +56,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [minimalistic](.././minimalistic)
   
- [![a_man_standing_in_a_forest.webp](.././minimalistic/a_man_standing_in_a_forest.webp)](.././minimalistic/a_man_standing_in_a_forest.webp)
+ [![a_cartoon_of_two_white_people.webp](.././minimalistic/a_cartoon_of_two_white_people.webp)](.././minimalistic/a_cartoon_of_two_white_people.webp)
   
  [![a_cat_with_ears_and_eyes.webp](.././minimalistic/a_cat_with_ears_and_eyes.webp)](.././minimalistic/a_cat_with_ears_and_eyes.webp)
   
 
 ## [nature](.././nature)
   
- [![a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)
+ [![a_lake_surrounded_by_trees_and_a_cave.webp](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)
   
- [![a_bridge_over_water_with_trees_around_it.webp](.././nature/a_bridge_over_water_with_trees_around_it.webp)](.././nature/a_bridge_over_water_with_trees_around_it.webp)
+ [![a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)
   
 
 ## [nord](.././nord)
   
- [![a_blue_and_grey_wavy_lines.webp](.././nord/a_blue_and_grey_wavy_lines.webp)](.././nord/a_blue_and_grey_wavy_lines.webp)
+ [![a_person_in_a_hoodie.webp](.././nord/a_person_in_a_hoodie.webp)](.././nord/a_person_in_a_hoodie.webp)
   
- [![a_graphic_design_of_a_bird.webp](.././nord/a_graphic_design_of_a_bird.webp)](.././nord/a_graphic_design_of_a_bird.webp)
+ [![a_mountain_with_a_pink_sky.webp](.././nord/a_mountain_with_a_pink_sky.webp)](.././nord/a_mountain_with_a_pink_sky.webp)
   
 
 ## [pixelart](.././pixelart)

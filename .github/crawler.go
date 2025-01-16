@@ -74,7 +74,7 @@ func getEstimatedCollectionsCount(root string) int {
 	return count
 }
 
-func ParseDirectories(root string, respectIgnore bool) []Collection {
+func ParseDirectories(root string) []Collection {
 	collections := make([]Collection, 0, getEstimatedCollectionsCount(root))
 	err := filepath.Walk(root, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
@@ -96,14 +96,13 @@ func ParseDirectories(root string, respectIgnore bool) []Collection {
 
 		// Check for the presence of ExcludedFile
 		excludedFilePath := filepath.Join(path, ExcludedFile)
-		fmt.Printf("Checking for excluded file: %s\n", excludedFilePath)
 		if _, err := os.Stat(excludedFilePath); err == nil {
 			fmt.Printf("Excluded file found, skipping directory %s\n", path)
 			// ExcludedFile exists, skip this directory
 			return filepath.SkipDir
 		}
 
-		collection, err := ParseDirectory(path, respectIgnore)
+		collection, err := ParseDirectory(path)
 		if err != nil {
 			fmt.Printf("Error parsing directory %s: %v\n", path, err)
 			return nil
@@ -127,7 +126,7 @@ func ParseDirectories(root string, respectIgnore bool) []Collection {
 	return collections
 }
 
-func ParseDirectory(path string, respectIgnore bool) (Collection, error) {
+func ParseDirectory(path string) (Collection, error) {
 	exists, err := os.Stat(path)
 	if err != nil {
 		return Collection{}, err
@@ -157,10 +156,6 @@ func ParseDirectory(path string, respectIgnore bool) (Collection, error) {
 	})
 	if err != nil {
 		fmt.Printf("Error creating category README for %s: %v\n", path, err)
-	}
-
-	if respectIgnore {
-
 	}
 
 	return Collection{
@@ -225,7 +220,12 @@ func createCategoryReadme(path string, collection Collection) error {
 	if err != nil {
 		return err
 	}
-	defer f.Close()
+	defer func(f *os.File) {
+		err := f.Close()
+		if err != nil {
+			panic(err)
+		}
+	}(f)
 
 	// Execute the template
 	err = tmpl.Execute(f, collection)

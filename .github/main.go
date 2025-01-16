@@ -15,7 +15,7 @@ const (
 
 func main() {
 	// Collect all collections
-	collections := ParseDirectories("../", true)
+	collections := ParseDirectories("../")
 
 	// Create root README
 	err := createRootReadme(collections)
@@ -42,7 +42,12 @@ func createRootReadme(collections []Collection) error {
 	if err != nil {
 		return err
 	}
-	defer f.Close()
+	defer func(f *os.File) {
+		err := f.Close()
+		if err != nil {
+			panic(err)
+		}
+	}(f)
 
 	// Execute the template
 	err = tmpl.Execute(f, collections)

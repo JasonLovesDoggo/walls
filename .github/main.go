@@ -15,7 +15,7 @@ const (
 
 func main() {
 	// Collect all collections
-	collections := ParseDirectories("../")
+	collections := ParseDirectories("../", true)
 
 	// Create root README
 	err := createRootReadme(collections)

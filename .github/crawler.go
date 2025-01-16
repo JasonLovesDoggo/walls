@@ -13,13 +13,14 @@ import (
 
 const (
 	DescriptionFile     = "DESCRIPTION"
+	ExcludedFile        = "EXCLUDED"
 	MaxFilesPerCategory = 2
 )
 
 var (
 	BaseDir                string
 	IgnoredDirectories     = []string{".github", ".idea", ".git"}
-	IgnoredFiles           = []string{".gitignore", OutputFile, DescriptionFile, ".DS_Store", ".gitkeep"}
+	IgnoredFiles           = []string{".gitignore", OutputFile, DescriptionFile, ExcludedFile, ".DS_Store", ".gitkeep"}
 	ImageExtensions        = []string{".jpg", ".jpeg", ".png", ".webp", ".mp4"}
 	CategoryReadmeTemplate string
 	RootReadmeTemplate     string
@@ -73,7 +74,7 @@ func getEstimatedCollectionsCount(root string) int {
 	return count
 }
 
-func ParseDirectories(root string) []Collection {
+func ParseDirectories(root string, respectIgnore bool) []Collection {
 	collections := make([]Collection, 0, getEstimatedCollectionsCount(root))
 	err := filepath.Walk(root, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
@@ -93,7 +94,16 @@ func ParseDirectories(root string) []Collection {
 			return nil
 		}
 
-		collection, err := ParseDirectory(path)
+		// Check for the presence of ExcludedFile
+		excludedFilePath := filepath.Join(path, ExcludedFile)
+		fmt.Printf("Checking for excluded file: %s\n", excludedFilePath)
+		if _, err := os.Stat(excludedFilePath); err == nil {
+			fmt.Printf("Excluded file found, skipping directory %s\n", path)
+			// ExcludedFile exists, skip this directory
+			return filepath.SkipDir
+		}
+
+		collection, err := ParseDirectory(path, respectIgnore)
 		if err != nil {
 			fmt.Printf("Error parsing directory %s: %v\n", path, err)
 			return nil
@@ -117,7 +127,7 @@ func ParseDirectories(root string) []Collection {
 	return collections
 }
 
-func ParseDirectory(path string) (Collection, error) {
+func ParseDirectory(path string, respectIgnore bool) (Collection, error) {
 	exists, err := os.Stat(path)
 	if err != nil {
 		return Collection{}, err
@@ -147,6 +157,10 @@ func ParseDirectory(path string) (Collection, error) {
 	})
 	if err != nil {
 		fmt.Printf("Error creating category README for %s: %v\n", path, err)
+	}
+
+	if respectIgnore {
+
 	}
 
 	return Collection{

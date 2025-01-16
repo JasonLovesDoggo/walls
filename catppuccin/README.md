@@ -22,3 +22,5 @@
 
 [![a_train_tracks_in_a_city.webp](./a_train_tracks_in_a_city.webp)](./a_train_tracks_in_a_city.webp)
 
+[![dark-cat.png](./dark-cat.png)](./dark-cat.png)
+

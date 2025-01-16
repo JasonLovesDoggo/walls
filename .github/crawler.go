@@ -20,7 +20,7 @@ var (
 	BaseDir                string
 	IgnoredDirectories     = []string{".github", ".idea", ".git"}
 	IgnoredFiles           = []string{".gitignore", OutputFile, DescriptionFile, ".DS_Store", ".gitkeep"}
-	ImageExtensions        = []string{".jpg", ".jpeg", ".png", ".webp"}
+	ImageExtensions        = []string{".jpg", ".jpeg", ".png", ".webp", ".mp4"}
 	CategoryReadmeTemplate string
 	RootReadmeTemplate     string
 )

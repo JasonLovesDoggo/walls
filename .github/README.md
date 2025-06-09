@@ -16,30 +16,30 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [anime](.././anime)
   
- [![a_woman_in_a_hat_holding_a_lantern.webp](.././anime/a_woman_in_a_hat_holding_a_lantern.webp)](.././anime/a_woman_in_a_hat_holding_a_lantern.webp)
-  
  [![a_cartoon_of_a_woman_on_a_balcony.webp](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)
+  
+ [![a_woman_in_a_hat_holding_a_lantern.webp](.././anime/a_woman_in_a_hat_holding_a_lantern.webp)](.././anime/a_woman_in_a_hat_holding_a_lantern.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
- [![a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp](.././apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp)](.././apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp)
-  
  [![a_dark_alley_with_people_walking_on_it.webp](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)
+  
+ [![a_motorcycle_parked_outside_a_restaurant.webp](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)
   
 
 ## [arcane](.././arcane)
   
- [![a_tower_with_a_blue_light.webp](.././arcane/a_tower_with_a_blue_light.webp)](.././arcane/a_tower_with_a_blue_light.webp)
+ [![a_cartoon_of_two_characters_in_a_round_hole.webp](.././arcane/a_cartoon_of_two_characters_in_a_round_hole.webp)](.././arcane/a_cartoon_of_two_characters_in_a_round_hole.webp)
   
- [![a_man_standing_next_to_a_person.webp](.././arcane/a_man_standing_next_to_a_person.webp)](.././arcane/a_man_standing_next_to_a_person.webp)
+ [![a_tower_with_a_blue_light.webp](.././arcane/a_tower_with_a_blue_light.webp)](.././arcane/a_tower_with_a_blue_light.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![a_city_skyline_at_night.webp](.././catppuccin/a_city_skyline_at_night.webp)](.././catppuccin/a_city_skyline_at_night.webp)
+ [![a_building_with_a_pink_cloud_in_the_sky.png](.././catppuccin/a_building_with_a_pink_cloud_in_the_sky.png)](.././catppuccin/a_building_with_a_pink_cloud_in_the_sky.png)
   
- [![a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp](.././catppuccin/a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp)](.././catppuccin/a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp)
+ [![dark-cat.png](.././catppuccin/dark-cat.png)](.././catppuccin/dark-cat.png)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -49,30 +49,30 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [memes](.././memes)
   
- [![a_collage_of_a_man_with_a_face_mask.webp](.././memes/a_collage_of_a_man_with_a_face_mask.webp)](.././memes/a_collage_of_a_man_with_a_face_mask.webp)
-  
  [![a_man_pointing_at_a_man_pointing_at_a_man.webp](.././memes/a_man_pointing_at_a_man_pointing_at_a_man.webp)](.././memes/a_man_pointing_at_a_man_pointing_at_a_man.webp)
+  
+ [![a_collage_of_a_man_with_a_face_mask.webp](.././memes/a_collage_of_a_man_with_a_face_mask.webp)](.././memes/a_collage_of_a_man_with_a_face_mask.webp)
   
 
 ## [minimalistic](.././minimalistic)
   
- [![a_cat_with_ears_and_eyes.webp](.././minimalistic/a_cat_with_ears_and_eyes.webp)](.././minimalistic/a_cat_with_ears_and_eyes.webp)
+ [![a_cartoon_of_two_white_people.webp](.././minimalistic/a_cartoon_of_two_white_people.webp)](.././minimalistic/a_cartoon_of_two_white_people.webp)
   
- [![a_blue_circle_with_a_wave_in_the_middle.webp](.././minimalistic/a_blue_circle_with_a_wave_in_the_middle.webp)](.././minimalistic/a_blue_circle_with_a_wave_in_the_middle.webp)
+ [![a_man_standing_in_a_forest.webp](.././minimalistic/a_man_standing_in_a_forest.webp)](.././minimalistic/a_man_standing_in_a_forest.webp)
   
 
 ## [nature](.././nature)
   
- [![a_bridge_over_water_with_trees_around_it.webp](.././nature/a_bridge_over_water_with_trees_around_it.webp)](.././nature/a_bridge_over_water_with_trees_around_it.webp)
+ [![a_mountain_in_the_distance.webp](.././nature/a_mountain_in_the_distance.webp)](.././nature/a_mountain_in_the_distance.webp)
   
- [![a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)
+ [![a_bridge_over_water_with_trees_around_it.webp](.././nature/a_bridge_over_water_with_trees_around_it.webp)](.././nature/a_bridge_over_water_with_trees_around_it.webp)
   
 
 ## [nord](.././nord)
   
- [![a_person_in_a_hoodie.webp](.././nord/a_person_in_a_hoodie.webp)](.././nord/a_person_in_a_hoodie.webp)
+ [![a_mountain_with_a_pink_sky.webp](.././nord/a_mountain_with_a_pink_sky.webp)](.././nord/a_mountain_with_a_pink_sky.webp)
   
- [![a_tower_in_the_forest.webp](.././nord/a_tower_in_the_forest.webp)](.././nord/a_tower_in_the_forest.webp)
+ [![a_person_in_a_hoodie.webp](.././nord/a_person_in_a_hoodie.webp)](.././nord/a_person_in_a_hoodie.webp)
   
 
 ## [pixelart](.././pixelart)

@@ -18,7 +18,5 @@
 
 [![a_street_with_buildings_and_trees.webp](./a_street_with_buildings_and_trees.webp)](./a_street_with_buildings_and_trees.webp)
 
-[![a_woman_standing_in_front_of_a_window.webp](./a_woman_standing_in_front_of_a_window.webp)](./a_woman_standing_in_front_of_a_window.webp)
-
 [![cars_on_a_train_track.webp](./cars_on_a_train_track.webp)](./cars_on_a_train_track.webp)
 

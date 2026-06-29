@@ -9,9 +9,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [abstract](.././abstract)
   
- [![a_close_up_of_a_painting.webp](.././abstract/a_close_up_of_a_painting.webp)](.././abstract/a_close_up_of_a_painting.webp)
-  
  [![a_snow_covered_mountains_with_a_red_and_white_line.webp](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)
+  
+ [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
   
 
 ## [anime](.././anime)
@@ -23,23 +23,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [apocalypse](.././apocalypse)
   
- [![a_street_with_buildings_and_trees.webp](.././apocalypse/a_street_with_buildings_and_trees.webp)](.././apocalypse/a_street_with_buildings_and_trees.webp)
+ [![a_motorcycle_parked_outside_a_restaurant.webp](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)
   
- [![a_dark_alley_with_people_walking_on_it.webp](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)
+ [![a_car_parked_outside_a_motel.webp](.././apocalypse/a_car_parked_outside_a_motel.webp)](.././apocalypse/a_car_parked_outside_a_motel.webp)
   
 
 ## [arcane](.././arcane)
   
- [![a_woman_with_blue_hair_and_a_white_face.webp](.././arcane/a_woman_with_blue_hair_and_a_white_face.webp)](.././arcane/a_woman_with_blue_hair_and_a_white_face.webp)
+ [![a_green_and_purple_butterfly_shaped_object.webp](.././arcane/a_green_and_purple_butterfly_shaped_object.webp)](.././arcane/a_green_and_purple_butterfly_shaped_object.webp)
   
- [![a_cartoon_of_a_woman_with_blood_on_her_face.webp](.././arcane/a_cartoon_of_a_woman_with_blood_on_her_face.webp)](.././arcane/a_cartoon_of_a_woman_with_blood_on_her_face.webp)
+ [![a_light_shining_through_a_hole_in_the_ground.webp](.././arcane/a_light_shining_through_a_hole_in_the_ground.webp)](.././arcane/a_light_shining_through_a_hole_in_the_ground.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
  [![a_black_and_white_fractal.png](.././catppuccin/a_black_and_white_fractal.png)](.././catppuccin/a_black_and_white_fractal.png)
   
- [![a_black_circle_with_white_lines.png](.././catppuccin/a_black_circle_with_white_lines.png)](.././catppuccin/a_black_circle_with_white_lines.png)
+ [![a_screenshot_of_a_computer.jpg](.././catppuccin/a_screenshot_of_a_computer.jpg)](.././catppuccin/a_screenshot_of_a_computer.jpg)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -49,9 +49,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [memes](.././memes)
   
- [![a_collage_of_a_man_with_a_face_mask.webp](.././memes/a_collage_of_a_man_with_a_face_mask.webp)](.././memes/a_collage_of_a_man_with_a_face_mask.webp)
-  
  [![a_man_pointing_at_a_man_pointing_at_a_man.webp](.././memes/a_man_pointing_at_a_man_pointing_at_a_man.webp)](.././memes/a_man_pointing_at_a_man_pointing_at_a_man.webp)
+  
+ [![a_collage_of_a_man_with_a_face_mask.webp](.././memes/a_collage_of_a_man_with_a_face_mask.webp)](.././memes/a_collage_of_a_man_with_a_face_mask.webp)
   
 
 ## [minimalistic](.././minimalistic)
@@ -70,9 +70,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [nord](.././nord)
   
- [![a_tower_in_the_forest.webp](.././nord/a_tower_in_the_forest.webp)](.././nord/a_tower_in_the_forest.webp)
+ [![a_logo_of_a_microsoft_windows.webp](.././nord/a_logo_of_a_microsoft_windows.webp)](.././nord/a_logo_of_a_microsoft_windows.webp)
   
- [![a_mountain_range_at_night.webp](.././nord/a_mountain_range_at_night.webp)](.././nord/a_mountain_range_at_night.webp)
+ [![a_tower_in_the_forest.webp](.././nord/a_tower_in_the_forest.webp)](.././nord/a_tower_in_the_forest.webp)
   
 
 ## [pixelart](.././pixelart)
@@ -87,9 +87,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [space](.././space)
   
- [![a_rocket_launching_with_smoke_and_clouds_of_smoke.webp](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)
-  
  [![a_rocket_launching_into_the_sky.webp](.././space/a_rocket_launching_into_the_sky.webp)](.././space/a_rocket_launching_into_the_sky.webp)
+  
+ [![a_rocket_launching_with_smoke_and_clouds_of_smoke.webp](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)
   
 
 ## [uncategorized](.././uncategorized)

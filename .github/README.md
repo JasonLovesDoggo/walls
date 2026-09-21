@@ -9,9 +9,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [abstract](.././abstract)
   
- [![a_close_up_of_a_painting.webp](.././abstract/a_close_up_of_a_painting.webp)](.././abstract/a_close_up_of_a_painting.webp)
-  
  [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
+  
+ [![a_snow_covered_mountains_with_a_red_and_white_line.webp](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)
   
 
 ## [anime](.././anime)
@@ -25,21 +25,21 @@ Categorized wallpaper showcase. two pictures per category.
   
  [![a_power_lines_and_power_poles.webp](.././apocalypse/a_power_lines_and_power_poles.webp)](.././apocalypse/a_power_lines_and_power_poles.webp)
   
- [![a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp](.././apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp)](.././apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp)
+ [![a_motorcycle_parked_outside_a_restaurant.webp](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)
   
 
 ## [arcane](.././arcane)
   
- [![a_statue_of_a_woman_holding_a_weapon.webp](.././arcane/a_statue_of_a_woman_holding_a_weapon.webp)](.././arcane/a_statue_of_a_woman_holding_a_weapon.webp)
+ [![a_green_and_purple_butterfly_shaped_object.webp](.././arcane/a_green_and_purple_butterfly_shaped_object.webp)](.././arcane/a_green_and_purple_butterfly_shaped_object.webp)
   
- [![a_woman_standing_in_a_room_with_a_city_in_the_background.webp](.././arcane/a_woman_standing_in_a_room_with_a_city_in_the_background.webp)](.././arcane/a_woman_standing_in_a_room_with_a_city_in_the_background.webp)
+ [![a_woman_with_blue_hair_and_white_face.webp](.././arcane/a_woman_with_blue_hair_and_white_face.webp)](.././arcane/a_woman_with_blue_hair_and_white_face.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
- [![a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp](.././catppuccin/a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp)](.././catppuccin/a_man_standing_on_a_sidewalk_looking_at_a_glowing_cube.webp)
+ [![a_city_skyline_at_night.webp](.././catppuccin/a_city_skyline_at_night.webp)](.././catppuccin/a_city_skyline_at_night.webp)
   
- [![dark-cat.png](.././catppuccin/dark-cat.png)](.././catppuccin/dark-cat.png)
+ [![a_train_tracks_in_a_city.webp](.././catppuccin/a_train_tracks_in_a_city.webp)](.././catppuccin/a_train_tracks_in_a_city.webp)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -63,16 +63,16 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [nature](.././nature)
   
- [![a_bridge_over_water_with_trees_around_it.webp](.././nature/a_bridge_over_water_with_trees_around_it.webp)](.././nature/a_bridge_over_water_with_trees_around_it.webp)
+ [![a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)
   
  [![a_mountain_in_the_distance.webp](.././nature/a_mountain_in_the_distance.webp)](.././nature/a_mountain_in_the_distance.webp)
   
 
 ## [nord](.././nord)
   
- [![a_graphic_design_of_a_bird.webp](.././nord/a_graphic_design_of_a_bird.webp)](.././nord/a_graphic_design_of_a_bird.webp)
-  
  [![a_blue_and_grey_wavy_lines.webp](.././nord/a_blue_and_grey_wavy_lines.webp)](.././nord/a_blue_and_grey_wavy_lines.webp)
+  
+ [![a_mountain_range_at_night.webp](.././nord/a_mountain_range_at_night.webp)](.././nord/a_mountain_range_at_night.webp)
   
 
 ## [pixelart](.././pixelart)
@@ -94,9 +94,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [uncategorized](.././uncategorized)
   
- [![a_sand_dune_with_trees_in_the_foreground.webp](.././uncategorized/a_sand_dune_with_trees_in_the_foreground.webp)](.././uncategorized/a_sand_dune_with_trees_in_the_foreground.webp)
-  
  [![a_large_ship_in_the_water.webp](.././uncategorized/a_large_ship_in_the_water.webp)](.././uncategorized/a_large_ship_in_the_water.webp)
+  
+ [![a_sand_dune_with_trees_in_the_foreground.webp](.././uncategorized/a_sand_dune_with_trees_in_the_foreground.webp)](.././uncategorized/a_sand_dune_with_trees_in_the_foreground.webp)
   
 
 

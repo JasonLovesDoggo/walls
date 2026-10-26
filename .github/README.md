@@ -11,7 +11,7 @@ Categorized wallpaper showcase. two pictures per category.
   
  [![a_close_up_of_a_painting.webp](.././abstract/a_close_up_of_a_painting.webp)](.././abstract/a_close_up_of_a_painting.webp)
   
- [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
+ [![a_snow_covered_mountains_with_a_red_and_white_line.webp](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)
   
 
 ## [anime](.././anime)
@@ -23,23 +23,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [apocalypse](.././apocalypse)
   
- [![a_street_with_buildings_and_trees.webp](.././apocalypse/a_street_with_buildings_and_trees.webp)](.././apocalypse/a_street_with_buildings_and_trees.webp)
+ [![a_dark_alley_with_people_walking_on_it.webp](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)](.././apocalypse/a_dark_alley_with_people_walking_on_it.webp)
   
- [![a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp](.././apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp)](.././apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.webp)
+ [![cars_on_a_train_track.webp](.././apocalypse/cars_on_a_train_track.webp)](.././apocalypse/cars_on_a_train_track.webp)
   
 
 ## [arcane](.././arcane)
   
- [![a_painting_of_a_city_with_people_in_the_background.webp](.././arcane/a_painting_of_a_city_with_people_in_the_background.webp)](.././arcane/a_painting_of_a_city_with_people_in_the_background.webp)
+ [![a_woman_with_blue_hair_and_white_face.webp](.././arcane/a_woman_with_blue_hair_and_white_face.webp)](.././arcane/a_woman_with_blue_hair_and_white_face.webp)
   
- [![a_cartoon_of_a_city_with_a_balloon_flying_over_it.webp](.././arcane/a_cartoon_of_a_city_with_a_balloon_flying_over_it.webp)](.././arcane/a_cartoon_of_a_city_with_a_balloon_flying_over_it.webp)
+ [![a_cartoon_of_two_characters_in_a_round_hole.webp](.././arcane/a_cartoon_of_two_characters_in_a_round_hole.webp)](.././arcane/a_cartoon_of_two_characters_in_a_round_hole.webp)
   
 
 ## [catppuccin](.././catppuccin)
   
  [![a_building_with_a_pink_cloud_in_the_sky.png](.././catppuccin/a_building_with_a_pink_cloud_in_the_sky.png)](.././catppuccin/a_building_with_a_pink_cloud_in_the_sky.png)
   
- [![a_city_skyline_at_night.webp](.././catppuccin/a_city_skyline_at_night.webp)](.././catppuccin/a_city_skyline_at_night.webp)
+ [![dark-cat.png](.././catppuccin/dark-cat.png)](.././catppuccin/dark-cat.png)
   
 
 ## [cyberpunk](.././cyberpunk)
@@ -58,21 +58,21 @@ Categorized wallpaper showcase. two pictures per category.
   
  [![a_cat_with_ears_and_eyes.webp](.././minimalistic/a_cat_with_ears_and_eyes.webp)](.././minimalistic/a_cat_with_ears_and_eyes.webp)
   
- [![a_man_standing_in_a_forest.webp](.././minimalistic/a_man_standing_in_a_forest.webp)](.././minimalistic/a_man_standing_in_a_forest.webp)
+ [![a_cartoon_of_two_white_people.webp](.././minimalistic/a_cartoon_of_two_white_people.webp)](.././minimalistic/a_cartoon_of_two_white_people.webp)
   
 
 ## [nature](.././nature)
   
- [![a_lake_surrounded_by_trees_and_a_cave.webp](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)
+ [![a_mountain_in_the_distance.webp](.././nature/a_mountain_in_the_distance.webp)](.././nature/a_mountain_in_the_distance.webp)
   
- [![a_bridge_over_water_with_trees_around_it.webp](.././nature/a_bridge_over_water_with_trees_around_it.webp)](.././nature/a_bridge_over_water_with_trees_around_it.webp)
+ [![a_lake_surrounded_by_trees_and_a_cave.webp](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)
   
 
 ## [nord](.././nord)
   
- [![a_mountain_with_a_pink_sky.webp](.././nord/a_mountain_with_a_pink_sky.webp)](.././nord/a_mountain_with_a_pink_sky.webp)
+ [![a_graphic_design_of_a_bird.webp](.././nord/a_graphic_design_of_a_bird.webp)](.././nord/a_graphic_design_of_a_bird.webp)
   
- [![a_tower_in_the_forest.webp](.././nord/a_tower_in_the_forest.webp)](.././nord/a_tower_in_the_forest.webp)
+ [![a_mountain_range_at_night.webp](.././nord/a_mountain_range_at_night.webp)](.././nord/a_mountain_range_at_night.webp)
   
 
 ## [pixelart](.././pixelart)

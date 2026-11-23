@@ -9,30 +9,30 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [abstract](.././abstract)
   
- [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
+ [![a_snow_covered_mountains_with_a_red_and_white_line.webp](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)](.././abstract/a_snow_covered_mountains_with_a_red_and_white_line.webp)
   
- [![a_close_up_of_a_painting.webp](.././abstract/a_close_up_of_a_painting.webp)](.././abstract/a_close_up_of_a_painting.webp)
+ [![a_group_of_planets_in_space.webp](.././abstract/a_group_of_planets_in_space.webp)](.././abstract/a_group_of_planets_in_space.webp)
   
 
 ## [anime](.././anime)
   
- [![a_woman_holding_a_gun.webp](.././anime/a_woman_holding_a_gun.webp)](.././anime/a_woman_holding_a_gun.webp)
-  
  [![a_woman_in_a_hat_holding_a_lantern.webp](.././anime/a_woman_in_a_hat_holding_a_lantern.webp)](.././anime/a_woman_in_a_hat_holding_a_lantern.webp)
+  
+ [![a_cartoon_of_a_woman_on_a_balcony.webp](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)](.././anime/a_cartoon_of_a_woman_on_a_balcony.webp)
   
 
 ## [apocalypse](.././apocalypse)
   
  [![a_street_with_buildings_and_trees.webp](.././apocalypse/a_street_with_buildings_and_trees.webp)](.././apocalypse/a_street_with_buildings_and_trees.webp)
   
- [![a_motorcycle_parked_outside_a_restaurant.webp](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)](.././apocalypse/a_motorcycle_parked_outside_a_restaurant.webp)
+ [![a_street_with_a_bridge_and_people_sitting_on_it.webp](.././apocalypse/a_street_with_a_bridge_and_people_sitting_on_it.webp)](.././apocalypse/a_street_with_a_bridge_and_people_sitting_on_it.webp)
   
 
 ## [arcane](.././arcane)
   
- [![a_woman_with_blue_hair_and_a_dark_background.webp](.././arcane/a_woman_with_blue_hair_and_a_dark_background.webp)](.././arcane/a_woman_with_blue_hair_and_a_dark_background.webp)
+ [![a_couple_of_women_looking_at_each_other.webp](.././arcane/a_couple_of_women_looking_at_each_other.webp)](.././arcane/a_couple_of_women_looking_at_each_other.webp)
   
- [![a_blue_lines_with_circles_and_circles_in_the_middle.webp](.././arcane/a_blue_lines_with_circles_and_circles_in_the_middle.webp)](.././arcane/a_blue_lines_with_circles_and_circles_in_the_middle.webp)
+ [![a_man_and_child_looking_at_a_city_at_the_moon.webp](.././arcane/a_man_and_child_looking_at_a_city_at_the_moon.webp)](.././arcane/a_man_and_child_looking_at_a_city_at_the_moon.webp)
   
 
 ## [catppuccin](.././catppuccin)
@@ -56,23 +56,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [minimalistic](.././minimalistic)
   
- [![a_man_standing_in_a_forest.webp](.././minimalistic/a_man_standing_in_a_forest.webp)](.././minimalistic/a_man_standing_in_a_forest.webp)
+ [![a_cat_with_ears_and_eyes.webp](.././minimalistic/a_cat_with_ears_and_eyes.webp)](.././minimalistic/a_cat_with_ears_and_eyes.webp)
   
- [![a_blue_circle_with_a_wave_in_the_middle.webp](.././minimalistic/a_blue_circle_with_a_wave_in_the_middle.webp)](.././minimalistic/a_blue_circle_with_a_wave_in_the_middle.webp)
+ [![a_cartoon_of_two_white_people.webp](.././minimalistic/a_cartoon_of_two_white_people.webp)](.././minimalistic/a_cartoon_of_two_white_people.webp)
   
 
 ## [nature](.././nature)
   
- [![a_lake_surrounded_by_trees_and_a_cave.webp](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)](.././nature/a_lake_surrounded_by_trees_and_a_cave.webp)
+ [![a_bridge_over_water_with_trees_around_it.webp](.././nature/a_bridge_over_water_with_trees_around_it.webp)](.././nature/a_bridge_over_water_with_trees_around_it.webp)
   
- [![a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)](.././nature/a_tree_with_red_leaves_and_Mount_Fuji_in_the_background.webp)
+ [![a_mountain_in_the_distance.webp](.././nature/a_mountain_in_the_distance.webp)](.././nature/a_mountain_in_the_distance.webp)
   
 
 ## [nord](.././nord)
   
  [![a_graphic_design_of_a_bird.webp](.././nord/a_graphic_design_of_a_bird.webp)](.././nord/a_graphic_design_of_a_bird.webp)
   
- [![a_mountain_with_a_pink_sky.webp](.././nord/a_mountain_with_a_pink_sky.webp)](.././nord/a_mountain_with_a_pink_sky.webp)
+ [![a_logo_of_a_microsoft_windows.webp](.././nord/a_logo_of_a_microsoft_windows.webp)](.././nord/a_logo_of_a_microsoft_windows.webp)
   
 
 ## [pixelart](.././pixelart)
@@ -87,9 +87,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## [space](.././space)
   
- [![a_rocket_launching_into_the_sky.webp](.././space/a_rocket_launching_into_the_sky.webp)](.././space/a_rocket_launching_into_the_sky.webp)
-  
  [![a_rocket_launching_with_smoke_and_clouds_of_smoke.webp](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)](.././space/a_rocket_launching_with_smoke_and_clouds_of_smoke.webp)
+  
+ [![a_rocket_launching_into_the_sky.webp](.././space/a_rocket_launching_into_the_sky.webp)](.././space/a_rocket_launching_into_the_sky.webp)
   
 
 ## [uncategorized](.././uncategorized)
